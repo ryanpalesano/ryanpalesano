@@ -1,5 +1,4 @@
-I am a full stack developer that loves to acheieve hard things.
-
+Hi there, I'm Ryan <span class="wave">👋</span>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanpalesano&theme=calm)
 
