@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Ryan
 #### Keep it Clean
-![Keep it Clean](https://github.com/ryanpalesano)
 
 I am working on getting my first Dev job and these are just some of my projects 
 
