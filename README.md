@@ -1,16 +1,13 @@
-Hi there, I'm Ryan <span class="wave">👋</span>
-------------------------------------------------
-I am a full stack developer who is still trying to get his feet wet in the industry.
-I went through a 28 week rigiorous online boot-camp and passed with flying colors.
-I am looking for my first position as a software engineer.
-I currently am doing tech support for an Oklahoma local company.
-I am currently going through another course online learning everything I can about js and react. 
+### Hi there 👋, my name is Ryan
+#### Keep it Clean
+![Keep it Clean](https://github.com/ryanpalesano)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanpalesano&theme=calm)
+I am working on getting my first Dev job and these are just some of my projects 
 
+Skills: html5/css/python/c#/js/SQL/mySQL/flask/react
 
+- 🔭 I’m currently working on this page. 
 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpalesano&theme=tokyonight)
