@@ -6,6 +6,11 @@ I am looking for my first position as a software developer.
 I currently am doing tech support for an Oklahoma local company.
 I am currently doing solo projects through a course via UDEMY. 
 
+<br />
+<br />
+
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanpalesano&theme=calm)
 
 
@@ -14,6 +19,11 @@ I am currently doing solo projects through a course via UDEMY.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpalesano&theme=tokyonight)
+
+<br />
+<br />
+
+---
 
 ### Langauges and Tools
 
