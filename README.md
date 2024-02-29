@@ -17,9 +17,6 @@ I am currently doing solo projects through a course via UDEMY.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpalesano&theme=tokyonight)
 
-<br />
-<br />
-
 ---
 
 ### Langauges and Tools
