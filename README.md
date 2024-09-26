@@ -1,8 +1,7 @@
 Hi there, I'm Ryan <span class="wave">👋</span>
 ------------------------------------------------
 I am a full stack developer with comprehensive training aquired through a rigourous 28-week online boot-camp at Coding Dojo which I completed with distinction.
-Presently, I am employed in technical support for a well-regarded company based in Oklahoma.
-I am acitvely seeking my inagural role as a Software Developer and continue to ehance my skills through independent projects. 
+Presently, I am a DEVOPS engineer with a local Oklahoma based company.
 
 ---
 
